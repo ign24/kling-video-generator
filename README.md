@@ -1,6 +1,8 @@
 # Kling AI Video Generator
 
-Generate videos from images using the official Kling AI API.
+> Generate videos from images using the official Kling AI API.
+
+Generador de videos desde imágenes usando la API oficial de Kling AI.
 
 ## Quick Start
 
