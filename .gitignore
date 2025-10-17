@@ -1,0 +1,37 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Generated outputs
+outputs/*.mp4
+outputs/*.txt
+!outputs/.gitkeep
+
+# Batch processing temp files
+batch_output/
+
+# Keep example images but allow custom ones
+images/*
+!images/.gitkeep
+!images/example.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+

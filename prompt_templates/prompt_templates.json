@@ -1,0 +1,59 @@
+{
+  "vineyard": {
+    "template": "vineyard landscape with natural movement",
+    "movements": [
+      "static",
+      "subtle_zoom",
+      "gentle_pan",
+      "atmospheric"
+    ],
+    "description": "Minimal prompt for vineyard scenes, optimized for CapCut post-editing"
+  },
+  "winery": {
+    "template": "winery building with natural lighting",
+    "movements": [
+      "static",
+      "subtle_zoom"
+    ],
+    "description": "Clean architectural shot for winery buildings"
+  },
+  "wine_production": {
+    "template": "wine production with natural process",
+    "movements": [
+      "static",
+      "gentle_pan"
+    ],
+    "description": "Production scenes with minimal movement"
+  },
+  "nature": {
+    "template": "natural scene with organic movement",
+    "movements": [
+      "static",
+      "atmospheric"
+    ],
+    "description": "Generic nature scenes with minimal prompts"
+  },
+  "landscape": {
+    "template": "landscape with natural atmosphere",
+    "movements": [
+      "static",
+      "subtle_zoom"
+    ],
+    "description": "Landscape shots optimized for editing"
+  },
+  "building": {
+    "template": "building with natural lighting",
+    "movements": [
+      "static"
+    ],
+    "description": "Architectural shots with clean results"
+  },
+  "dramatic": {
+    "template": "scene with natural atmospheric movement",
+    "movements": [
+      "atmospheric",
+      "static"
+    ],
+    "description": "Dramatic scenes with natural elements"
+  }
+}
