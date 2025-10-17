@@ -55,5 +55,15 @@
       "static"
     ],
     "description": "Dramatic scenes with natural elements"
+  },
+  "cinematic_premium": {
+    "template": "cinematic premium shot, photorealistic, natural skin tones, premium soft lighting, global illumination, high dynamic range, shallow depth of field, realistic lens optics, subtle film grain, cinematic color grading, 4K detail, faithful to source image",
+    "movements": [
+      "static",
+      "subtle_zoom",
+      "gentle_pan",
+      "atmospheric"
+    ],
+    "description": "Universal cinematic prompt for premium, realistic videos in most scenes"
   }
 }
