@@ -95,7 +95,8 @@ Kling/
 
 ## Documentation
 
-See `DOCUMENTACION_KLING.md` for API details.
+- **[📖 Guía Paso a Paso](GUIA_PASO_A_PASO.md)** - Tutorial completo desde cero
+- **[📚 Documentación API](DOCUMENTACION_KLING.md)** - Detalles técnicos de la API
 
 ## License
 
